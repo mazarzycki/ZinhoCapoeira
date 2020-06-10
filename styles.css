@@ -45,7 +45,11 @@ ul {
     text-decoration: none;
   }
   
-  /* Change the link color to #111 (black) on hover */
   li a:hover {
     background-color: #111;
+  }
+
+  .container-text {
+      line-height: 1.5em;
+      font-size: 1.2em;
   }
